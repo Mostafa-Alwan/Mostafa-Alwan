@@ -1,12 +1,13 @@
 # Hi, I'm Mostafa Alwan
 
-I'm learning front-end development and building my skills with HTML, CSS, and JavaScript.
+I'm a full-stack developer on the Node.js track, working with HTML, CSS, JavaScript, and Node.js.
 
-## What I'm learning
+## What I do
 
-- HTML and CSS fundamentals
-- Responsive layouts with Flexbox and Grid
-- JavaScript basics through hands-on practice
+- Build responsive web interfaces with HTML and CSS
+- Create layouts with Flexbox and Grid
+- Develop interactive web experiences with JavaScript
+- Build full-stack web applications with Node.js on the back end
 
 ## Projects
 
@@ -15,4 +16,4 @@ I'm learning front-end development and building my skills with HTML, CSS, and Ja
 
 ## Tech
 
-HTML · CSS · JavaScript
+HTML · CSS · JavaScript · Node.js
