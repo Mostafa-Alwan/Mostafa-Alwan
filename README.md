@@ -1,6 +1,6 @@
 # Hi, I'm Mostafa Alwan
 
-I'm a full-stack developer on the Node.js track, working with HTML, CSS, JavaScript, and Node.js.
+I'm a full-stack developer working with HTML, CSS, JavaScript, and Node.js.
 
 ## What I do
 
