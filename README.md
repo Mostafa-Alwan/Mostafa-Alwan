@@ -1,10 +1,10 @@
 # Hi, I'm Mostafa Alwan
 
-I'm a full-stack developer working with HTML, CSS, JavaScript, and Node.js.
+I'm a full-stack developer working with HTML, CSS, JavaScript, React, and Node.js.
 
 ## What I do
 
-- Build responsive web interfaces with HTML and CSS
+- Build responsive web interfaces with HTML, CSS, and React
 - Create layouts with Flexbox and Grid
 - Develop interactive web experiences with JavaScript
 - Build full-stack web applications with Node.js on the back end
@@ -16,4 +16,4 @@ I'm a full-stack developer working with HTML, CSS, JavaScript, and Node.js.
 
 ## Tech
 
-HTML · CSS · JavaScript · Node.js
+HTML · CSS · JavaScript · React · Node.js
