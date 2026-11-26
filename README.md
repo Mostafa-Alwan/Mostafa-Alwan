@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Mostafa Alwan
 
-<!--
-**Mostafa-Alwan/Mostafa-Alwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning front-end development and building my skills with HTML, CSS, and JavaScript.
 
-Here are some ideas to get you started:
+## What I'm learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML and CSS fundamentals
+- Responsive layouts with Flexbox and Grid
+- JavaScript basics through hands-on practice
+
+## Projects
+
+- [HTML-AND-CSS](https://github.com/Mostafa-Alwan/HTML-AND-CSS) — Practice exercises covering borders, the box model, positioning, Flexbox, Grid, media queries, dark mode, and more.
+- [javaScript](https://github.com/Mostafa-Alwan/javaScript) — JavaScript practice organized by level.
+
+## Tech
+
+HTML · CSS · JavaScript
